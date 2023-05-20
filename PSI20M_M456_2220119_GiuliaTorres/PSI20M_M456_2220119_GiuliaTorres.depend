@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1624365516 source:c:\users\2220119\onedrive - escola digital\documentos\psi\psi20m_m456_2220119_giuliatorres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<ctype.h>
+	<conio.c>
+	<time.h>
+	"ascii.h"
+	"aplicacoes.h"
+
+1624367017 c:\users\2220119\onedrive - escola digital\documentos\psi\psi20m_m456_2220119_giuliatorres\ascii.h
+
+1624661386 source:c:\users\famil\onedrive - escola digital\documentos\psi\psi20m_m456_2220119_giuliatorres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<ctype.h>
+	<conio.c>
+	<time.h>
+	"ascii.h"
+	"aplicacoes.h"
+
+1624661955 c:\users\famil\onedrive - escola digital\documentos\psi\psi20m_m456_2220119_giuliatorres\ascii.h
+
+1624874942 c:\users\famil\onedrive - escola digital\documentos\psi\psi20m_m456_2220119_giuliatorres\aplicacoes.h
+
+1624370265 c:\users\2220119\onedrive - escola digital\documentos\psi\psi20m_m456_2220119_giuliatorres\aplicacoes.h
+

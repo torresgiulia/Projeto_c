@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="270" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="24" />
+			<Collapse line="37" />
+			<Collapse line="44" />
+			<Collapse line="138" />
+			<Collapse line="242" />
+		</Folding>
+	</File>
+	<File name="ascii.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="153732" topLine="124" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="53" />
+			<Collapse line="100" />
+			<Collapse line="145" />
+			<Collapse line="189" />
+			<Collapse line="234" />
+			<Collapse line="278" />
+			<Collapse line="322" />
+			<Collapse line="366" />
+			<Collapse line="413" />
+			<Collapse line="461" />
+			<Collapse line="506" />
+			<Collapse line="550" />
+			<Collapse line="594" />
+			<Collapse line="638" />
+			<Collapse line="682" />
+			<Collapse line="726" />
+			<Collapse line="771" />
+			<Collapse line="815" />
+			<Collapse line="860" />
+			<Collapse line="906" />
+			<Collapse line="907" />
+			<Collapse line="953" />
+			<Collapse line="998" />
+			<Collapse line="999" />
+			<Collapse line="1044" />
+			<Collapse line="1045" />
+			<Collapse line="1088" />
+			<Collapse line="1089" />
+			<Collapse line="1132" />
+			<Collapse line="1133" />
+			<Collapse line="1177" />
+			<Collapse line="1180" />
+			<Collapse line="1225" />
+			<Collapse line="1233" />
+			<Collapse line="1241" />
+			<Collapse line="1249" />
+			<Collapse line="1257" />
+			<Collapse line="1265" />
+			<Collapse line="1273" />
+			<Collapse line="1281" />
+			<Collapse line="1289" />
+			<Collapse line="1297" />
+			<Collapse line="1306" />
+			<Collapse line="1315" />
+			<Collapse line="1324" />
+			<Collapse line="1335" />
+			<Collapse line="1343" />
+			<Collapse line="1351" />
+			<Collapse line="1359" />
+			<Collapse line="1367" />
+			<Collapse line="1375" />
+			<Collapse line="1383" />
+			<Collapse line="1391" />
+			<Collapse line="1399" />
+			<Collapse line="1407" />
+			<Collapse line="1416" />
+			<Collapse line="1425" />
+			<Collapse line="1434" />
+			<Collapse line="1443" />
+			<Collapse line="1451" />
+			<Collapse line="1459" />
+			<Collapse line="1467" />
+			<Collapse line="1475" />
+			<Collapse line="1483" />
+			<Collapse line="1491" />
+			<Collapse line="1499" />
+			<Collapse line="1507" />
+			<Collapse line="1515" />
+			<Collapse line="1523" />
+			<Collapse line="1531" />
+			<Collapse line="1539" />
+			<Collapse line="1547" />
+			<Collapse line="1555" />
+			<Collapse line="1563" />
+			<Collapse line="1571" />
+			<Collapse line="1579" />
+			<Collapse line="1587" />
+			<Collapse line="1595" />
+			<Collapse line="1603" />
+			<Collapse line="1611" />
+			<Collapse line="1619" />
+			<Collapse line="1627" />
+			<Collapse line="1635" />
+			<Collapse line="1643" />
+			<Collapse line="1651" />
+			<Collapse line="1659" />
+			<Collapse line="1667" />
+			<Collapse line="1675" />
+			<Collapse line="1683" />
+			<Collapse line="1691" />
+			<Collapse line="1699" />
+			<Collapse line="1707" />
+			<Collapse line="1715" />
+			<Collapse line="1723" />
+			<Collapse line="1731" />
+			<Collapse line="1739" />
+			<Collapse line="1747" />
+			<Collapse line="1755" />
+			<Collapse line="1763" />
+			<Collapse line="1771" />
+			<Collapse line="1779" />
+			<Collapse line="1787" />
+			<Collapse line="1795" />
+			<Collapse line="1803" />
+			<Collapse line="1811" />
+			<Collapse line="1821" />
+			<Collapse line="1828" />
+			<Collapse line="1840" />
+			<Collapse line="1852" />
+			<Collapse line="1864" />
+			<Collapse line="1876" />
+			<Collapse line="1888" />
+			<Collapse line="1903" />
+			<Collapse line="1910" />
+			<Collapse line="1915" />
+			<Collapse line="1922" />
+			<Collapse line="1929" />
+			<Collapse line="1939" />
+			<Collapse line="1949" />
+			<Collapse line="1960" />
+			<Collapse line="1971" />
+			<Collapse line="1980" />
+			<Collapse line="1989" />
+			<Collapse line="1997" />
+			<Collapse line="2008" />
+			<Collapse line="2020" />
+			<Collapse line="2029" />
+		</Folding>
+	</File>
+	<File name="aplicacoes.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="481" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="16" />
+			<Collapse line="26" />
+			<Collapse line="34" />
+			<Collapse line="64" />
+			<Collapse line="128" />
+			<Collapse line="142" />
+			<Collapse line="300" />
+			<Collapse line="374" />
+			<Collapse line="409" />
+			<Collapse line="589" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
